@@ -30,3 +30,7 @@ git remote add origin https://github.com/Reine222/Pagination-Django.git
  git push -u origin master
 … Ou importer du code depuis un autre référentiel
 Vous pouvez initialiser ce référentiel avec le code d'un projet Subversion, Mercurial ou TFS.
+
+
+# Jeu Zombie
+https://github.com/marblexu/PythonPlantsVsZombies
