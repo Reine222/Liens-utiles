@@ -1,8 +1,8 @@
 # Liens-utiles
 
 # Apprendre Django
-http://sdz.tdct.org/sdz/developpez-votre-site-web-avec-le-framework-django.html
-https://stackabuse.com/building-a-graphql-api-with-django/
+    http://sdz.tdct.org/sdz/developpez-votre-site-web-avec-le-framework-django.html
+    https://stackabuse.com/building-a-graphql-api-with-django/
 
 
 # Django e-commerce
