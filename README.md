@@ -18,6 +18,7 @@ https://books.agiliq.com/projects/django-orm-cookbook/en/latest/slugfield.html
 
 # graphene Django
     https://ednsquare.com/story/building-a-graphql-api-with-python-django------u6KWaC
+    https://github.com/gufranmirza/graphene-pyton
 
 # github en ligne de commande
 
