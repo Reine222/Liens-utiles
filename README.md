@@ -21,6 +21,7 @@ https://books.agiliq.com/projects/django-orm-cookbook/en/latest/slugfield.html
     https://github.com/gufranmirza/graphene-pyton
     https://readthedocs.org/projects/graphene-django/downloads/pdf/stable/
     https://github.com/graphql-python/graphene-django/wiki/Relay-Pagination-example
+    https://pypi.org/project/graphene-django-plus/
 
 # github en ligne de commande
 
