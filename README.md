@@ -16,7 +16,8 @@ Beginning Django E-Commerce par James McGaw.
 # Quelques topo en Django
 https://books.agiliq.com/projects/django-orm-cookbook/en/latest/slugfield.html
 
-
+# graphene Django
+    https://ednsquare.com/story/building-a-graphql-api-with-python-django------u6KWaC
 
 # github en ligne de commande
 
