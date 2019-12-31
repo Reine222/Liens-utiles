@@ -33,6 +33,8 @@ git remote add origin https://github.com/Reine222/Pagination-Django.git
 … Ou importer du code depuis un autre référentiel
 Vous pouvez initialiser ce référentiel avec le code d'un projet Subversion, Mercurial ou TFS.
 
+# post vuejs
+    https://www.itsolutionstuff.com/post/vue-axios-post-request-exampleexample.html
 
 # Jeu Zombie
 https://github.com/marblexu/PythonPlantsVsZombies
