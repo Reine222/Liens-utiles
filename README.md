@@ -23,6 +23,11 @@ https://books.agiliq.com/projects/django-orm-cookbook/en/latest/slugfield.html
     https://github.com/graphql-python/graphene-django/wiki/Relay-Pagination-example
     https://pypi.org/project/graphene-django-plus/
 
+
+# Graphene tutoriel
+    https://www.techiediaries.com/django-graphql-tutorial/
+
+
 # github en ligne de commande
 
 Ou créez un nouveau référentiel sur la ligne de commande
