@@ -26,6 +26,7 @@ https://books.agiliq.com/projects/django-orm-cookbook/en/latest/slugfield.html
 
 # Graphene tutoriel
     https://www.techiediaries.com/django-graphql-tutorial/
+    
 
 
 # github en ligne de commande
