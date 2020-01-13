@@ -27,6 +27,8 @@ https://books.agiliq.com/projects/django-orm-cookbook/en/latest/slugfield.html
 # Graphene tutoriel
     https://www.techiediaries.com/django-graphql-tutorial/
     
+# uploader image en VuJS 
+    https://stackoverflow.com/questions/43013858/how-to-post-a-file-from-a-form-with-axios
 
 
 # github en ligne de commande
