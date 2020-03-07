@@ -3,6 +3,8 @@
 # Apprendre Django
     http://sdz.tdct.org/sdz/developpez-votre-site-web-avec-le-framework-django.html
     https://stackabuse.com/building-a-graphql-api-with-django/
+    https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication
+
 
 
 # Django e-commerce
