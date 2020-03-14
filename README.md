@@ -31,6 +31,9 @@ https://books.agiliq.com/projects/django-orm-cookbook/en/latest/slugfield.html
     
 # uploader image en VuJS 
     https://stackoverflow.com/questions/43013858/how-to-post-a-file-from-a-form-with-axios
+    
+# consommation API Rest avec VuJs
+    https://alligator.io/vuejs/rest-api-axios/
 
 
 # github en ligne de commande
