@@ -6,6 +6,9 @@
     https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication
     http://sdz.tdct.org/sdz/developpez-votre-site-web-avec-le-framework-django.html#Personnalisonsl039administration
 
+# Revision Django
+https://lasteminista.com/comment-implementer-un-systeme-de-connexion-authentification-django-1-partie/
+
 
 
 # Django e-commerce
