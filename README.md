@@ -7,7 +7,13 @@
     http://sdz.tdct.org/sdz/developpez-votre-site-web-avec-le-framework-django.html#Personnalisonsl039administration
 
 # Revision Django
+
 https://lasteminista.com/comment-implementer-un-systeme-de-connexion-authentification-django-1-partie/
+
+https://testdriven.io/blog/django-custom-user-model/
+
+# form de django
+https://www.tresfacile.net/authentification-utilisateur-en-django/
 
 
 
